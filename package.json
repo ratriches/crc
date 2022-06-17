@@ -1,5 +1,5 @@
 {
-  "name": "@rat/crc",
+  "name": "@ratriches/crc",
   "version": "1.0.0",
   "description": "Crc 8, 16, 32 CheckSums",
   "main": "src/crcCalc.js",
