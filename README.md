@@ -14,7 +14,7 @@ $ npm i https://github.com/ratriches/crc
 Code example:
 
 ```js
-const { Crc, modelFind } = require('@rat/crc');
+const { Crc, modelFind } = require('@ratriches/crc');
 
 // predefined model
 const m = modelFind('CRC16_KERMIT');
