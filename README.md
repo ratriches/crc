@@ -5,10 +5,8 @@ Supports 8, 16 and 32 bits witdh
 
 ## Installation
 
-With [npm](https://www.npmjs.org/package/@rat/crc):
-
 ```bash
-$ npm install @rat/crc
+$ npm i https://github.com/ratriches/crc
 ```
 
 ## Usage
