@@ -1,0 +1,27 @@
+{
+  "name": "@rat/crc",
+  "version": "1.0.0",
+  "description": "Crc 8, 16, 32 CheckSums",
+  "main": "src/crcCalc.js",
+  "scripts": {
+    "start": "node src/crcCalc.js",
+    "test": "jest --colors --detectOpenHandles --passWithNoTests --runInBand --coverage",
+    "test:dev": "jest --watchAll",
+    "test:coverage": "jest --colors --coverage"
+  },
+  "keywords": [
+    "CRC8",
+    "CRC16",
+    "CRC32"
+  ],
+  "author": "RAT",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^8.15.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.26.0",
+    "eslint-plugin-sonarjs": "^0.13.0",
+    "jest": "^28.1.1",
+    "jest-sonar": "^0.2.12"
+  }
+}
