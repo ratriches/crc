@@ -6,6 +6,8 @@ Supports 8, 16 and 32 bits witdh
 ## Installation
 
 ```bash
+$ npm i @ratriches/crc
+or,
 $ npm i https://github.com/ratriches/crc
 ```
 
