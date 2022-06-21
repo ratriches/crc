@@ -1,6 +1,6 @@
 {
   "name": "@ratriches/crc",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Crc 8, 16, 32 CheckSums",
   "main": "src/crcCalc.js",
   "scripts": {
@@ -14,6 +14,7 @@
     "CRC16",
     "CRC32"
   ],
+  "repository": { "type": "git", "url": "git://github.com/ratriches/crc.git" },
   "author": "RAT",
   "license": "MIT",
   "devDependencies": {
